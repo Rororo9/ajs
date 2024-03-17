@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Rororo9/ajs.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/rororo9"
+    "registry":"https://npm.pkg.github.com/"
   },
   "author": "Rororo9",
   "license": "ISC",
